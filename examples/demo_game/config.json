@@ -1,0 +1,11 @@
+{
+    "window": {
+        "title": "Example Demo Game",
+        "width": 1280,
+        "height": 720
+    },
+    "network": {
+        "port": 1234
+    },
+    "initial_scene": "examples/demo_game/scene.json"
+}

@@ -1,0 +1,12 @@
+{
+    "window": {
+        "title": "My Game Engine (Phase 6 Polish)",
+        "width": 1024,
+        "height": 768
+    },
+    "network": {
+        "port": 1234,
+        "default_host": "127.0.0.1"
+    },
+    "initial_scene": "scenes/main.json"
+}

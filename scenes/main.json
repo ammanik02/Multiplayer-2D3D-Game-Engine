@@ -1,0 +1,30 @@
+{
+    "entities": [
+        {
+            "id": 1,
+            "type": "Player",
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "color": [
+                50,
+                150,
+                250
+            ],
+            "script_module": "player_controller",
+            "script_class": "PlayerController"
+        },
+        {
+            "id": 2,
+            "type": "Obstacle",
+            "x": 200.0,
+            "y": 50.0,
+            "z": -100.0,
+            "color": [
+                200,
+                50,
+                50
+            ]
+        }
+    ]
+}

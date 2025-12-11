@@ -1,0 +1,32 @@
+{
+    "entities": [
+        {
+            "id": 1,
+            "type": "Player",
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "color": [
+                0,
+                255,
+                0
+            ],
+            "script_module": "player",
+            "script_class": "Player"
+        },
+        {
+            "id": 2,
+            "type": "Enemy",
+            "x": 300.0,
+            "y": 0.0,
+            "z": 0.0,
+            "color": [
+                255,
+                0,
+                0
+            ],
+            "script_module": "enemy",
+            "script_class": "Enemy"
+        }
+    ]
+}
